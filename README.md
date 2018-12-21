@@ -1,4 +1,4 @@
-* go语言学习笔记 *
+** go语言学习笔记 **
 ---
 [go语言标准库](https://studygolang.com/pkgdoc)
 ---
